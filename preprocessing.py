@@ -1,3 +1,8 @@
+# This code will be usefull for the users who are strugling to find the NaN and infinte numbers present in large dataset 
+# This module will replace NaN and infinite values insted of droping them.
+#******************************************************************************************************************************************************#
+
+
 import pandas as pd
 import numpy as np
 
